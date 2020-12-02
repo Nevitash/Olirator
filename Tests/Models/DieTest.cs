@@ -7,7 +7,7 @@ using System.Text;
 using FluentAssertions;
 using static Olirator.Constants.ExceptionConstants;
 
-namespace Olirator.Test.Models
+namespace Olirator.Tests.Models
 {
     [TestClass]
     public class DieTest

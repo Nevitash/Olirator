@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Olirator.Test.Models
+namespace Olirator.Tests.Models
 {
     [TestClass]
     class NormalRollerTest
